@@ -18,5 +18,16 @@ It is conducted by multiple programmers or programming teams and tests integrati
 
 It can fall under both black and white box testing.
 
+Updated by 00_Latha
 
+System Testing : 
+
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems
+It is done by testers. 
+It falls under blackbox testing
 
+Acceptance Testing : 
+
+Acceptance testing is to evaluate and validate that the system’s functionality meets the customer’s requirements, standards and business needs before the final delivery.
+It is done by testers and end users.
+It falls under blackbox testing
